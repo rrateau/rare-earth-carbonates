@@ -9,7 +9,7 @@ aux_links:
     "ResearchGate":
       - "https://www.researchgate.net/profile/Remi_Rateau"
 
-color_scheme: cv-dark.scss
+color_scheme: rec-dark.scss
 
 # defaults
 defaults:
