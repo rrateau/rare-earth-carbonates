@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ksp kozoite
+title: Kozoite
 nav_order: 21
 parent: Solubility Products
 ---
