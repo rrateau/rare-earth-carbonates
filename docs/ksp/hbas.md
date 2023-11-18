@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ksp Hydroxylbastnäsite
+title: Hydroxylbastnäsite
 nav_order: 22
 parent: Solubility Products
 ---
