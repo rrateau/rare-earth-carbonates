@@ -25,5 +25,8 @@ tagline: "All about rare earth carbonates"
 description: "A compedium of useful resources and data on rare earth carbonates for the geologist and geochemist."
 type: website
 
+# Set a path/url to a logo that will be displayed instead of the title
+#logo: "/images/rec-logo.png"
+
 # enable theme for local usage
 #theme: "just-the-docs"
