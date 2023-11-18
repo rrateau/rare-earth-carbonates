@@ -9,7 +9,7 @@ nav_order: 1
 ![SEM inage](images/REC_sem_image.png)
 
 <br />
-All things rare earth carbonates!
+All things rare earth carbonates.
 {: .fs-6 }
 
 ---
