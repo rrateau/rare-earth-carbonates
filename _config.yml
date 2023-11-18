@@ -26,4 +26,4 @@ description: "A compedium of useful resources and data on rare earth carbonates 
 type: website
 
 # enable theme for local usage
-theme: "just-the-docs"
+#theme: "just-the-docs"
