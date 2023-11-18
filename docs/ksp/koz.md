@@ -20,6 +20,21 @@ The table below summarizes all published values of the solubility products of ko
 
 * [x]* = Correction of the <em>Ksp</em> value from [x] by Rorif et al., 2005 ([5])
 
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 50%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+</style>
+
 | Ref |Sc|Y |La|Ce|Pr|Nd          |Sm          |Eu          |Gd|Tb|Dy|Ho|Er|Tm|
 |:----|:-|:-|:-|:-|:-|:-----------|:-----------|:-----------|:-|:-|:-|:-|:-|:-|
 | [1] |  |  |  |  |  |19.19 ± 0.08|            |            |  |  |  |  |  |  |
