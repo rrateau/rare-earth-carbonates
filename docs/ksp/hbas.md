@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Solubility Product - Hbas
-nav_order: 1
+title: Ksp Hydroxylbastnäsite
+nav_order: 22
+parent: Solubility Products
 ---
 <!-- markdownlint-disable MD014 MD022 MD025 MD033 MD040 -->
-{% include include_metatags.md %}
-
 # Solubility Constant of Rare Earth Carbonates
+{: .no_toc }
 
 ## Hydroxylbastnäsite
 
