@@ -53,7 +53,7 @@ A year later, in Runde <i>et al.</i> (1992), the same research group reported <e
 > Runde, W., Meinrath, G. & Kim, J. I., 1991. A study of solid-liquid phase equilibria of trivalent lanthanide. <em>Radiochimica Acta</em>, <b>58/59</b>, 93-100. [doi.org/10.1524/ract.1992.5859.1.93](https://doi.org/10.1524/ract.1992.5859.1.93){:target="_blank"}
 
 <sub>From p.99</sub>
-![Section of paper with the Ksp value](images/1992_Runde_etal_Ksp.png)
+![Section of paper with the Ksp value](../../images/1992_Runde_etal_Ksp.png)
 
   ```
   log Ksp(koz-Nd) = -19.94 ± 0.16
@@ -68,7 +68,7 @@ A year later, in Meinrath <i>et al.</i> (1993), the same research group, this ti
 <sub>From p.94</sub>
 ![Section of paper with identifying the Ln(CO3)(OH) phase as orthorhombic, so likely kozoite](images/1993_Meinrach_&_Takeishi_koz_id.png)
 <sub>From p.96</sub>
-![Section of paper with the Ksp value](images/1993_Meinrach_&_Takeishi_Ksp.png)
+![Section of paper with the Ksp value](../../images/1993_Meinrach_&_Takeishi_Ksp.png)
 
 
   ```
@@ -81,7 +81,7 @@ In this paper, Merli & Fuger calculate theoretical solubility products from thei
 > Merli, L. & Fuger, J. 1996. Thermochemistry of Selected Lanthanide and Actinide Hydroxycarbonates and Carbonates. <em>Radiochimica Acta</em>, <b>74</b>, 37-43. [doi.org/10.1524/ract.1996.74.special-issue.37](https://doi.org/10.1524/ract.1996.74.special-issue.37){:target="_blank"}
 
 <sub>From p.42</sub>
-![Section of paper with the Ksp values](images/1996_Merli_&_Fugi_Ksp.png)
+![Section of paper with the Ksp values](../../images/1996_Merli_&_Fugi_Ksp.png)
 
 ```
 log Ksp(koz-Nd) = −21.3 ± 0.7
@@ -94,7 +94,7 @@ Nine years later, the same research group, in Rorif <i>et al.</i> (2005) recalcu
 > Rorif, F., Fuger, J. & Desreux, J. F. 2005. Thermochemistry of selected trivalent lanthanide and americium compounds: orthorhombic and hexagonal hydroxycarbonates. <em>Radiochimica Acta</em>, <b>93</b>, 103-110. [doi.org/10.1524/ract.93.2.103.59419](https://doi.org/10.1524/ract.93.2.103.59419){:target="_blank"}
 
 <sub>From p.108</sub>
-![Section of paper with the Ksp values](images/2005_Rorif_etal_Ksp.png)
+![Section of paper with the Ksp values](../../images/2005_Rorif_etal_Ksp.png)
 
 ```
 log Ksp(koz-Nd) = −20.7 ± 0.6
@@ -109,7 +109,7 @@ As part of a study dedicated to the characterization of the as-yet unknown solub
 solutions at 25 °C. <em>Radiochimica Acta</em>, <b>93</b>, 103-110. [doi.org/10.1524/ract.93.2.103.59419](https://doi.org/10.1524/ract.93.2.103.59419){:target="_blank"}
 
 <sub>From p.73</sub>
-![Section of paper with the Ksp values](images/2016_Voigt_etal_Ksp.png)
+![Section of paper with the Ksp values](../../images/2016_Voigt_etal_Ksp.png)
 
 ```
 log Ksp(koz-Nd) = −22.3 ± 0.2
