@@ -64,5 +64,5 @@ log Ksp(hbas-Nd) = −23.8 ± 0.1
 
 ---
 
-<< Back: [Home](index.md)
+<< Back: [Home](../../index.md)
 
