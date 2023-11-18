@@ -37,7 +37,7 @@ Rorif <i>et al.</i> (2005) calculated the theoretical solubility products for hy
 > Rorif, F., Fuger, J. & Desreux, J. F. 2005. Thermochemistry of selected trivalent lanthanide and americium compounds: orthorhombic and hexagonal hydroxycarbonates. <em>Radiochimica Acta</em>, <b>93</b>, 103-110. [doi.org/10.1524/ract.93.2.103.59419](https://doi.org/10.1524/ract.93.2.103.59419){:target="_blank"}
 
 <sub>From p.108</sub>
-![Section of paper with the Ksp values](images/2005_Rorif_etal_Ksp_hbas.png.png)
+![Section of paper with the Ksp values](../../images/2005_Rorif_etal_Ksp_hbas.png.png)
 
 ```
 log Ksp(hbas-La) = −23.7 ± 0.6
@@ -53,7 +53,7 @@ The paper focused on the characterization of the as-yet unknown solubility of hy
 solutions at 25 °C. <em>Radiochimica Acta</em>, <b>93</b>, 103-110. [doi.org/10.1524/ract.93.2.103.59419](https://doi.org/10.1524/ract.93.2.103.59419){:target="_blank"}
 
 <sub>From p.73</sub>
-![Section of paper with the Ksp values](images/2016_Voigt_etal_Ksp_hbas.png)
+![Section of paper with the Ksp values](../../images/2016_Voigt_etal_Ksp_hbas.png)
 
 ```
 log Ksp(hbas-La) = −24.1 ± 0.3
