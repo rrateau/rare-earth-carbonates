@@ -27,6 +27,10 @@ type: website
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/images/rec-logo.png"
+# Set a path/url to a favicon that will be displayed by the browser
+#favicon_ico: "/images/favicon.ico"
+
+
 
 # enable theme for local usage
 #theme: "just-the-docs"
