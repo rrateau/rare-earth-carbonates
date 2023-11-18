@@ -12,3 +12,9 @@ parent: Solubility Products
 
 * Formula: Ln2(CO<sub>3</sub>)<sub>3</sub>.8H<sub>2</sub>O
 * System: Orthorhombic
+
+<br /><br />
+
+---
+
+<< Back: [Home](../../index.md)
