@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hydroxylbastnäsite
-nav_order: 22
+nav_order: 23
 parent: Solubility Products
 ---
 <!-- markdownlint-disable MD014 MD022 MD025 MD033 MD040 -->
