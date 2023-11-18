@@ -16,7 +16,12 @@ aux_links:
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
-color_scheme: rec-dark.scss
+################
+# COLOR SCHEME #
+################
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+#color_scheme: rec-dark.scss
 
 # defaults
 defaults:
