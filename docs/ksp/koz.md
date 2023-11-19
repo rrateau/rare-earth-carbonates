@@ -20,8 +20,10 @@ The table below summarizes all published values of the solubility products of ko
 
 * [x]* = Correction of the <em>Ksp</em> value from [x] by Rorif et al., 2005 ([5])
 
+
+```
 | Ref |Sc|Y |La|Ce|Pr|Nd          |Sm          |Eu          |Gd|Tb|Dy|Ho|Er|Tm|
-|:----|:-|:-|:-|:-|:-|:-----------|:-----------|:-----------|:-|:-|:-|:-|:-|:-|
+|-----|--|--|--|--|--|------------|------------|------------|--|--|--|--|--|--|
 | [1] |  |  |  |  |  |19.19 ± 0.08|            |            |  |  |  |  |  |  |
 | [1]*|  |  |  |  |  |20.7  ± 0.02|            |            |  |  |  |  |  |  |
 | [2] |  |  |  |  |  |19.94 ± 0.16|            |20.18 ± 0.16|  |  |  |  |  |  |
@@ -31,6 +33,7 @@ The table below summarizes all published values of the solubility products of ko
 | [4] |  |  |  |  |  |21.3  ± 0.7 |21    ± 0.09|            |  |  |  |  |  |  |
 | [5] |  |  |  |  |  |20.7  ± 0.6 |21.2  ± 0.7 |            |  |  |  |  |  |  |
 | [6] |  |  |  |  |  |22.3  ± 0.2 |            |            |  |  |  |  |  |  |
+```
 
 #### Calculate K<sub>sp</sub>
 
