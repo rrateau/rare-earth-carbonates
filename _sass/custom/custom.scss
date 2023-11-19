@@ -3,7 +3,7 @@
 
 .table-wrapper {
   display: block;
-  width: 100%;
+  width: 100px;
   max-width: 100%;
   margin-bottom: $sp-5;
   overflow-x: auto;
@@ -15,7 +15,7 @@
 
 table {
   display: table;
-  min-width: 100%;
+  min-width: 100px;
   border-collapse: separate;
 }
 
