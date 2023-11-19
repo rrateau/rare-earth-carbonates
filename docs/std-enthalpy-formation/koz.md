@@ -16,6 +16,7 @@ parent: Standard Enthalpy of Formation
 ### Summary Table
 
 The table below summarizes all published values of the enthalpies of formation of kozoite in the form.
+* Unit: kJ/mol
 
 ```
 | Ref |Sc|Y |La|Ce|Pr|Nd           |Sm           |Eu           |Gd|Tb|Dy|Ho|Er|Tm|
