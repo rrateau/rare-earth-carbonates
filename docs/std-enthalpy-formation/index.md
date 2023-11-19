@@ -14,6 +14,8 @@ has_children: true
 * Definition (from Pelton, 2019. Thermodynamics Fundamentals):
 > The standard molar enthalpy of formation of a compound is defined as the enthalpy of formation of 1.0 mol of the pure compound in its stable state from the pure elements in their stable states at P = 1.0 bar at constant temperature.
 
+<br /><br />
+
 ---
 
-
+<< Back: [Home](../../index.md)
