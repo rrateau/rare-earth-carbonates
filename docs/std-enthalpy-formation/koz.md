@@ -21,6 +21,7 @@ The table below summarizes all published values of the enthalpies of formation o
 | Ref |Sc|Y |La|Ce|Pr|Nd           |Sm           |Eu           |Gd|Tb|Dy|Ho|Er|Tm|
 |-----|--|--|--|--|--|-------------|-------------|-------------|--|--|--|--|--|--|
 | [1] |  |  |  |  |  |-1750.6 ± 1.8|-1744.1 ± 2.4|             |  |  |  |  |  |  |
+| [2] |  |  |  |  |  |−1744.9 ± 2.1|-1744.1 ± 2.4|-1653.4 ± 3.6|  |  |  |  |  |  |
 ```
 
 
@@ -32,6 +33,19 @@ The reaction of formation is:
 ```
 delta_Hf0 (Nd(0H)C03·0.5H2O) = -1750.6 ± 1.8 kJ/mol
 delta_Hf0 (Sm(0H)C03·0.5H2O) = -1744.1 ± 2.4 kJ/mol
+delta_Hf0 (Eu(0H)C03·0.5H2O) = -1653.4 ± 3.6 kJ/mol
+```
+
+> Merli, L. & Fuger, J. 1996. Thermochemistry of Selected Lanthanide and Actinide Hydroxycarbonates and Carbonates. <em>Radiochimica Acta</em>, <b>74</b>, 37-43. [doi.org/10.1524/ract.1996.74.special-issue.37](https://doi.org/10.1524/ract.1996.74.special-issue.37){:target="_blank"}
+
+<sub>From p.41</sub>
+![Section of paper with the Ksp values](../../images/1996_Merli_etal_deltaHf_koz.png)
+
+### [2] Rorif <i>et al.</i>, 2005
+
+```
+delta_Hf0 (Nd(0H)C03·0.5H2O) = −1744.9 ± 2.1 kJ/mol
+delta_Hf0 (Sm(0H)C03·0.5H2O) = −1744.1 ± 2.4 kJ/mol
 ```
 
 > Merli, L. & Fuger, J. 1996. Thermochemistry of Selected Lanthanide and Actinide Hydroxycarbonates and Carbonates. <em>Radiochimica Acta</em>, <b>74</b>, 37-43. [doi.org/10.1524/ract.1996.74.special-issue.37](https://doi.org/10.1524/ract.1996.74.special-issue.37){:target="_blank"}
